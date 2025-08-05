@@ -1,0 +1,501 @@
+id_cliente,nome,email,telefone,cidade,estado,data_inicio,valor_mensal,status,data_nascimento
+1,Srta. Isis Ramos,ycarvalhosilveira.com,08214862890233030705,Carvalho,AP,2025-06-04,78.19,inadimplente,1988-08-22
+2,Sr. João Guilherme Nascimento,qmoreiragmail.com,35797279855241406029,Azevedo Grande,SP,2024-11-13,155.7,inadimplente,1983-01-10
+3,Dr. Igor Monteiro,joao-pedrocarvalhoaraujo.org,+55 (041) 0059 8614,Sales,ES,2025-06-12,166.97,inadimplente,1988-05-18
+4,Sofia da Rocha,gcavalcantigmail.com,+55 51 7323 0192,da Conceição,RO,2025-07-29,53.01,inadimplente,2006-10-22
+5,Sr. Daniel Martins,jjesus@bol.com.br,+55 (081) 3404 3537,da Conceição,PI,2025-01-29,141.25,inadimplente,1980-03-14
+6,Daniela da Rosa,kdias@almeida.com,+55 (031) 9791 7017,Araújo Grande,PR,2025-03-15,118.85,inadimplente,1988-01-11
+7,Renan Ramos,lda-mata@hotmail.com,(021) 5710 1807,Rocha do Amparo,AL,2025-04-06,126.73,inadimplente,1974-01-12
+8,Sr. Ryan da Rosa,souzalara@goncalves.org,+55 (031) 1984 1157,Porto Verde,RO,2025-05-07,100.44,inadimplente,1982-10-20
+9,Pedro Lucas Nunes,otaviocarvalho@souza.br,+55 21 6975-3037,da Cruz dos Dourados,PB,2024-11-23,94.82,inadimplente,1994-02-26
+10,Gustavo Oliveira,thalesteixeira@hotmail.com,81 2223-9516,Peixoto do Amparo,CE,2024-10-21,110.61,inadimplente,1978-12-07
+11,Milena Gonçalves,peixotofrancisco@ig.com.br,21 6751-8127,Campos,MT,2025-04-08,112.78,inadimplente,1972-10-09
+12,Sabrina Duarte,joao-gabriel60@uol.com.br,+55 (031) 5306 6435,Pires,SC,2024-11-04,157.01,inadimplente,1959-08-23
+13,Pedro Mendes,sramos@ig.com.br,(041) 5868 2645,Rocha,AP,2024-09-07,75.5,inadimplente,1957-07-10
+14,Maria Alice Pires,ssilveira@hotmail.com,31 5147-0604,Gonçalves de Duarte,RJ,2025-02-05,164.44,inadimplente,1991-03-08
+15,Marcelo Rocha,alicelima@yahoo.com.br,+55 (084) 8079-2248,Dias de Ramos,MA,2025-05-14,180.71,inadimplente,1969-11-18
+16,Maria Clara da Mata,kaiquepeixoto@da.br,+55 71 4824-8286,Rezende Alegre,CE,2025-05-28,120.58,inadimplente,2001-03-20
+17,Marcos Vinicius Viana,brendasales@peixoto.com,(021) 5974 7494,Azevedo,PI,2025-05-20,111.97,inadimplente,1994-01-29
+18,Sra. Isadora Barbosa,evelynda-rocha@fernandes.com,(041) 8051 2367,Rocha do Norte,MA,2025-05-14,118.64,inadimplente,1979-03-22
+19,Otávio Pereira,,(084) 7457-0183,Moura da Mata,CE,2025-02-07,97.01,inadimplente,2002-05-27
+20,Júlia Pinto,kda-costa@moreira.br,+55 51 7472 8612,Costela de Farias,BA,2025-05-13,123.44,inadimplente,1999-09-16
+21,Guilherme da Rocha,novaesisaac@ig.com.br,+55 51 3328 7250,Porto do Sul,RJ,2025-06-25,121.61,inadimplente,
+22,Natália Souza,luiz-miguel69@ramos.org,+55 84 4544 7456,Teixeira das Pedras,MG,2025-02-09,98.33,inadimplente,1959-12-19
+23,Daniel Nunes,erick59@peixoto.org,(031) 9186-9672,Campos,PB,2025-05-31,87.32,inadimplente,1976-09-17
+24,Kamilly Souza,fogacajoao-miguel@da.com,+55 (084) 3419 7012,Caldeira do Sul,PI,2024-11-24,95.92,inadimplente,2001-09-30
+25,Otávio Fernandes,gporto@cavalcanti.com,0800 040 8963,Teixeira,TO,2024-10-29,159.17,inadimplente,1960-08-01
+26,Melissa Martins,bernardo16@costa.org,(031) 4206 1952,da Conceição de Goiás,AC,2025-06-27,101.41,inadimplente,1963-08-18
+27,Sra. Mariane Dias,vnogueira@uol.com.br,,da Cunha da Prata,RS,2025-05-06,187.73,inadimplente,1971-06-01
+28,Ana Sophia Novaes,rsouza@cunha.com,+55 61 8609 6615,da Costa,PB,2025-05-13,81.68,inadimplente,2005-08-21
+29,Lara Campos,caueda-mata@ig.com.br,+55 (011) 8253-7520,da Rocha das Flores,SP,2025-01-19,104.99,inadimplente,2004-04-02
+30,Júlia Sales,cavalcanticaio@gmail.com,61 9742 3764,Cardoso do Norte,PA,2024-09-24,165.69,inadimplente,2003-03-31
+31,Rodrigo Moreira,vvieira@viana.br,0300 670 7484,da Mata da Serra,MA,2024-08-27,66.22,inadimplente,2005-11-01
+32,Antônio Farias,pereiraerick@cardoso.com,(061) 7637 3793,Martins,AM,2024-11-24,116.65,inadimplente,1996-07-08
+33,Stella Pires,kcampos@bol.com.br,+55 51 1167 5632,Rodrigues,SE,2024-10-13,72.97,inadimplente,2006-10-09
+34,Bryan Campos,davi-luizcaldeira@yahoo.com.br,81 8538-4589,Martins de Goiás,SE,2024-09-22,149.37,inadimplente,1983-05-21
+35,Francisco Cardoso,duarteyuri@cardoso.com,+55 (061) 6729-4893,Gomes de Goiás,BA,2025-03-09,112.82,inadimplente,1998-03-12
+36,Joana Gonçalves,fariasmurilo@gmail.com,(071) 2513-8844,Gomes do Galho,RJ,2024-12-03,92.41,inadimplente,1998-01-26
+37,Eduardo Barros,ucavalcanti@vieira.net,+55 41 8276-0259,Santos do Amparo,PE,2025-01-31,166.69,inadimplente,1960-09-02
+38,Bárbara Nunes,maria-fernandavieira@uol.com.br,+55 (051) 6372-7127,Pires,SP,2024-12-12,111.46,inadimplente,1993-03-20
+39,Davi Lucas Oliveira,cardosocecilia@pinto.net,+55 81 4675 2172,Mendes da Prata,,2024-12-24,81.15,inadimplente,1964-06-25
+40,Elisa Pires,rodriguesmaite@martins.org,0300 690 6942,Sales de Minas,MG,2025-06-21,150.74,inadimplente,1997-09-12
+41,Eloah Barbosa,rezendevalentina@teixeira.com,+55 84 1136 1116,Ribeiro,RN,2024-08-05,150.35,inadimplente,1994-03-23
+42,Evelyn Rezende,davi-lucas34@dias.com,0900 932 3280,Souza,BA,2025-03-28,166.93,inadimplente,2000-11-14
+43,Vitor Pires,bernardo98@viana.com,+55 11 2073 9088,Viana,RR,2025-02-05,65.19,inadimplente,1984-08-24
+44,Maysa da Mata,caio64@viana.com,(051) 2588 7697,Pereira da Mata,RR,2024-11-21,118.51,inadimplente,1981-01-17
+45,Sr. Gustavo Dias,melissa37@nascimento.com,11 0605-7107,Campos Paulista,SP,2024-09-29,57.51,inadimplente,1991-12-07
+46,Pedro Miguel Pinto,pereiracaue@lopes.br,11 8576 1342,Pires de Vieira,DF,2025-07-12,177.84,inadimplente,1975-04-16
+47,Ryan Barbosa,sophie77@uol.com.br,+55 84 4589 3880,Barros do Oeste,SC,2025-02-08,96.91,inadimplente,1997-03-17
+48,Alexia Alves,araujoluiz-henrique@silva.org,21 3079-0723,,ES,2025-03-23,163.73,inadimplente,2003-06-28
+49,Ana Julia Fogaça,osouza@ramos.net,+55 51 3849 0190,Mendes das Flores,RN,2025-06-21,70.76,inadimplente,1992-04-22
+50,Dr. Bryan Moraes,grodrigues@ig.com.br,0300 735 1679,Nascimento,MA,2025-05-23,99.3,inadimplente,1968-05-02
+51,Sra. Ana Sophia Freitas,gabriela72@silva.com,21 2499-1033,Sales Alegre,RN,2025-03-06,193.26,inadimplente,1983-07-15
+52,Paulo Rocha,cunhadaniela@nogueira.org,(071) 2951 2609,Viana,GO,2025-04-16,181.77,inadimplente,1999-04-08
+53,Luiza Correia,rafael43@gmail.com,71 3826 9814,Souza,DF,2025-01-27,105.89,inadimplente,1976-11-09
+54,Eduarda Pires,danilofogaca@farias.br,0300 942 0021,Dias dos Dourados,RR,2025-01-28,77.43,inadimplente,1971-08-26
+55,Gabriel Silva,freitassamuel@fogaca.org,+55 21 8558 8238,Almeida,RN,2025-02-28,110.04,inadimplente,1966-08-25
+56,Sophie Cunha,joao-guilhermeoliveira@melo.br,(051) 3705 0239,Nunes,PE,2025-04-14,90.77,inadimplente,1972-12-31
+57,Matheus Gomes,joao-pedro91@gmail.com,+55 (071) 4774-0630,Silva Alegre,PA,2024-08-27,153.49,inadimplente,1964-09-12
+58,Maitê Barbosa,fernandesmariana@silva.com,+55 11 5362 3070,Moraes,SC,2025-03-16,169.98,inadimplente,1992-08-22
+59,Dr. Nathan Costa,camposjuliana@nascimento.com,+55 (071) 2946 4047,Oliveira do Sul,BA,2025-01-18,66.96,inadimplente,2002-05-06
+60,Marcos Vinicius da Cunha,gabriellycostela@ig.com.br,21 5955 0242,Aragão,PE,2025-06-12,197.24,inadimplente,1993-04-21
+61,Sr. Matheus Oliveira,alexia14@hotmail.com,71 6918 4792,Novaes da Mata,SC,2025-03-31,65.56,inadimplente,1964-04-20
+62,Helena Azevedo,matheus55@teixeira.com,+55 41 9876 4853,Freitas Alegre,ES,2024-09-10,170.34,inadimplente,1968-04-18
+63,Milena Santos,duartelucca@da.com,(084) 6231-0452,Correia,MT,2025-02-13,77.19,inadimplente,1973-07-15
+64,Joana Dias,cardosoarthur@bol.com.br,84 0935 0896,Lima,PI,2025-04-20,166.87,inadimplente,2005-01-07
+65,Renan Oliveira,qcunha@azevedo.com,+55 (031) 1106 9138,Ribeiro de Correia,AC,2024-12-16,179.39,inadimplente,1995-11-19
+66,Carlos Eduardo da Cunha,gabriela71@bol.com.br,(021) 1930-1623,da Paz,RO,2024-11-23,122.46,inadimplente,1963-10-25
+67,Eduarda Rocha,pintomaria-clara@araujo.com,(031) 1804 6640,Duarte,PE,2024-11-01,66.94,inadimplente,1970-09-16
+68,Joaquim Monteiro,caldeirasophie@ramos.br,(041) 7065-9795,Moraes,AM,2024-08-05,116.1,inadimplente,2001-12-03
+69,Bruno Freitas,luiz-fernando88@yahoo.com.br,81 7530-6478,Nogueira Verde,ES,2025-01-24,89.24,inadimplente,1979-06-01
+70,Ana Lívia Cunha,pintosophie@aragao.br,+55 (031) 7305 9302,Peixoto dos Dourados,BA,2025-01-24,51.85,inadimplente,1960-07-09
+71,Sabrina Porto,marianealmeida@pereira.net,(081) 7978 8342,da Rosa de da Rocha,PA,2025-02-01,165.13,inadimplente,1955-11-15
+72,Dra. Lavínia Azevedo,bryanda-cruz@lima.org,+55 41 2992 3163,Jesus dos Dourados,AL,2025-05-15,158.57,inadimplente,1987-07-06
+73,Kamilly Cardoso,gomesjoaquim@cardoso.com,51 1815 3023,Silveira da Serra,PI,2025-02-04,196.68,inadimplente,1977-04-03
+74,Heitor Ferreira,meloisabelly@almeida.net,+55 (061) 9617-7515,Freitas da Serra,TO,2025-01-14,127.86,inadimplente,1999-01-23
+75,Sra. Luana Campos,enricorocha@alves.br,(084) 8467-5252,Rodrigues de Lima,RO,2025-03-23,114.93,inadimplente,1985-04-21
+76,Cauê Freitas,livia64@hotmail.com,31 9909 1072,Mendes,AL,2025-02-17,122.29,inadimplente,1973-01-28
+77,Lucas Gabriel Peixoto,araujobryan@gmail.com,0800-792-1318,Almeida de Minas,TO,2025-07-30,72.3,inadimplente,1957-07-07
+78,Rodrigo Ramos,enricocosta@uol.com.br,+55 31 4497 3881,da Mota,PA,2025-01-08,183.81,inadimplente,2002-09-16
+79,Enzo Gabriel da Luz,sofia79@da.com,+55 11 5849 0938,da Rocha,RN,2024-12-08,51.75,inadimplente,1993-07-11
+80,Julia Campos,ryan52@castro.br,(071) 0705-9283,Pinto,PB,2024-10-04,125.84,inadimplente,1965-07-03
+81,Olivia Barbosa,smoreira@bol.com.br,(021) 5933 5830,Lopes de Goiás,PI,2024-09-17,177.78,inadimplente,1992-10-07
+82,Stella Azevedo,tcunha@viana.org,+55 51 9616 0294,Farias,AL,2025-04-28,61.23,inadimplente,1963-07-01
+83,Vinicius Castro,nmelo@da.com,(041) 1923-5786,Ferreira,BA,2025-07-18,98.1,inadimplente,1977-12-02
+84,Luiz Gustavo Ribeiro,thalescorreia@da.br,+55 81 8875-0791,Moreira,CE,2025-04-17,195.52,inadimplente,2003-02-02
+85,Ana Beatriz Castro,xaraujo@porto.br,31 4100-3753,Viana do Norte,RR,2025-06-16,126.04,inadimplente,1958-03-21
+86,Marina Pires,nascimentobarbara@dias.com,31 0825 1162,Duarte,PE,2024-11-08,146.5,inadimplente,1971-06-05
+87,Dra. Lorena Rocha,joao-felipemoraes@cavalcanti.com,51 4876 1375,Ramos Alegre,TO,2025-07-05,172.57,inadimplente,2000-07-13
+88,Thomas Cardoso,da-motadiogo@bol.com.br,(081) 6723-7892,Martins,PI,2025-06-13,118.86,inadimplente,1956-03-12
+89,Maria Luiza Monteiro,oliveiralavinia@gmail.com,+55 (084) 0858-9900,Gonçalves,PI,2024-08-17,117.21,inadimplente,1962-11-20
+90,Dr. Kevin Costa,ramosheloisa@da.com,(031) 5146 3956,Correia da Mata,ES,2024-12-15,117.06,inadimplente,1996-12-15
+91,Julia Campos,natalia70@bol.com.br,+55 (061) 6095-9449,Duarte,ES,2024-12-08,197.1,inadimplente,2006-01-04
+92,Davi Porto,miguelbarros@ribeiro.com,+55 (031) 5763-9884,Lopes,BA,2024-12-05,65.4,inadimplente,1970-08-12
+93,Emanuelly Martins,marcos-viniciusrezende@da.br,+55 (061) 3441 9054,Melo de Fernandes,AL,2025-06-13,55.37,inadimplente,1958-05-06
+94,Gabrielly Santos,ana-sophia38@ig.com.br,0500-690-0027,Nascimento,CE,2024-09-13,50.03,inadimplente,1999-06-14
+95,Luiz Henrique Moura,da-costabernardo@da.br,(061) 8832 0670,Dias,PR,2024-12-05,168.77,inadimplente,1980-04-11
+96,João Pedro Oliveira,henrique67@rocha.com,+55 51 9983 2226,Gonçalves de Silva,SP,2024-11-11,183.52,inadimplente,1957-02-26
+97,Giovanna Mendes,gsouza@yahoo.com.br,(031) 8909 2837,Cardoso,TO,2025-03-16,81.03,inadimplente,1966-09-04
+98,Sra. Bianca Dias,zgoncalves@yahoo.com.br,84 7680 1141,Caldeira,RJ,2025-01-08,192.55,inadimplente,1975-01-03
+99,Kevin Correia,rda-conceicao@santos.br,+55 (021) 9529 5914,Costa de Goiás,MG,2024-11-05,173.8,inadimplente,1987-08-10
+100,Cecília Martins,da-conceicaogiovanna@castro.br,+55 (084) 9755 7733,Moura,PR,2025-05-06,176.65,inadimplente,1977-10-27
+101,Yasmin Lopes,vitoriacarvalho@farias.br,(011) 4503-8733,da Rocha dos Dourados,MT,2024-11-17,134.02,inadimplente,1965-02-27
+102,Dra. Eduarda Oliveira,da-cruzpedro-miguel@uol.com.br,0300-850-8078,Santos,DF,2025-01-23,157.5,inadimplente,1975-01-05
+103,Luiz Otávio Rocha,laura58@da.com,(081) 7559 1298,Cunha,RN,2025-06-22,157.39,inadimplente,1997-05-17
+104,Henrique Martins,hrezende@campos.com,+55 21 8122 6819,da Rocha de Barros,AC,2025-07-26,64.62,inadimplente,1987-09-17
+105,Sra. Alícia da Costa,da-motarafael@uol.com.br,+55 (061) 7925-7000,Viana Grande,AP,2025-06-20,50.33,inadimplente,1975-09-29
+106,Dra. Sabrina Barros,xsilva@nogueira.br,(031) 8251-2394,Rezende,BA,2024-11-04,174.48,inadimplente,1981-05-30
+107,Levi Santos,uda-paz@araujo.br,+55 84 0960-5248,Melo da Serra,GO,2025-01-29,132.15,inadimplente,1974-01-23
+108,Larissa Teixeira,clararezende@ig.com.br,81 0261-3129,Campos,SP,2025-01-11,155.31,inadimplente,2003-07-01
+109,Benjamin Barros,thiago11@gmail.com,(041) 1357 7534,Ramos Paulista,RR,2024-09-20,184.53,inadimplente,1963-06-06
+110,Srta. Cecília Caldeira,vitorcampos@yahoo.com.br,+55 51 7407 4940,Silva,AL,2025-01-27,71.07,inadimplente,1970-11-22
+111,Sra. Laís Carvalho,nascimentokevin@ig.com.br,(061) 0238 8090,Teixeira,SP,2024-11-02,66.04,inadimplente,1990-01-11
+112,Luna da Conceição,martinsnoah@lopes.br,0800-419-0169,Barros,RJ,2024-10-23,78.13,inadimplente,1972-05-10
+113,Sofia Caldeira,yferreira@costa.org,+55 71 6003 2762,da Cruz,AM,2025-03-21,82.34,inadimplente,1990-07-05
+114,Srta. Bruna Alves,vitoria41@bol.com.br,+55 (011) 5138 6969,Sales,AC,2025-02-28,157.52,inadimplente,1997-12-08
+115,Yasmin Nunes,zgomes@castro.com,+55 (011) 7369-9082,Teixeira,CE,2025-07-03,163.57,inadimplente,2003-06-08
+116,Clarice Sales,hfernandes@hotmail.com,+55 (041) 5199 0092,Campos,GO,2025-06-24,188.99,inadimplente,1996-07-20
+117,Gabriel Fogaça,barbosacamila@bol.com.br,(084) 9691 9305,Silveira,PA,2025-03-31,165.82,inadimplente,1967-03-10
+118,Isabel Santos,pereiraleonardo@jesus.net,71 8140 6091,Santos de Freitas,RN,2025-03-12,118.61,inadimplente,1962-05-16
+119,Davi Moura,vicentepires@yahoo.com.br,+55 84 2219 3154,Pinto de Barbosa,AP,2024-10-06,70.2,inadimplente,1962-11-08
+120,Maria Rocha,novaesdavi-lucas@hotmail.com,+55 41 0221-5555,Gonçalves,ES,2025-07-24,50.65,inadimplente,2003-04-01
+121,Bryan Santos,ana-sophiaalves@costela.br,(081) 7137-7271,Campos,PI,2025-07-13,132.98,inadimplente,1968-10-10
+122,Bernardo das Neves,ylopes@uol.com.br,84 6861 7299,Cardoso Grande,SC,2025-06-16,175.82,inadimplente,1964-04-12
+123,Alexandre Lopes,imoura@ig.com.br,+55 (084) 1619-3118,Duarte,AM,2025-07-19,188.66,inadimplente,1991-09-16
+124,Dr. João Pedro Barros,jpeixoto@bol.com.br,(021) 7151-7459,Ramos,DF,2024-11-01,153.77,inadimplente,1992-01-10
+125,Eduardo Nunes,da-mataagatha@ig.com.br,+55 81 2340-3844,Correia das Pedras,RO,2024-12-22,159.57,inadimplente,1996-02-02
+126,Beatriz Porto,da-conceicaobruna@bol.com.br,(021) 4749-8458,Alves,AL,2024-12-17,65.53,inadimplente,1978-09-24
+127,Marcela Caldeira,udas-neves@gmail.com,+55 (084) 2588-8909,Barros,DF,2025-01-24,125.62,inadimplente,1973-02-04
+128,Ana Lívia Monteiro,lucas-gabrielcostela@souza.br,(031) 5173 7470,Moraes,PR,2025-01-21,112.8,inadimplente,1985-05-02
+129,Dra. Elisa Almeida,costaclarice@lima.br,0500 492 9651,Aragão do Sul,MS,2025-01-01,91.04,inadimplente,1976-11-05
+130,Nina Fernandes,castrojuan@bol.com.br,+55 71 8414-3579,Mendes Grande,GO,2024-11-20,195.57,inadimplente,1966-12-24
+131,Eduardo da Luz,raul26@hotmail.com,+55 (071) 4213-4050,da Costa de Cardoso,MG,2024-10-31,170.72,inadimplente,1995-03-18
+132,Maria Fernanda Araújo,melissa30@bol.com.br,84 5546-7329,Nogueira do Galho,RJ,2024-12-16,111.91,inadimplente,1961-08-24
+133,Theo Cavalcanti,bda-mata@vieira.com,+55 (041) 8500-6457,Nascimento do Oeste,AL,2025-04-07,94.84,inadimplente,1958-06-17
+134,Sr. Fernando Costela,wmelo@gmail.com,(051) 4346 8404,Souza da Prata,PB,2025-07-08,179.11,inadimplente,1957-12-10
+135,Sophia da Paz,vda-luz@gmail.com,+55 (031) 0977-0470,Monteiro da Mata,TO,2024-12-08,144.89,inadimplente,1989-08-01
+136,Lucca Monteiro,jgomes@yahoo.com.br,(061) 0409 4782,Porto de da Conceição,PR,2024-10-19,81.46,inadimplente,1981-07-15
+137,Thomas Silva,paragao@bol.com.br,+55 71 9264-9510,da Cunha,MT,2024-09-26,152.99,inadimplente,1995-09-14
+138,Alexia da Mota,alvesbarbara@hotmail.com,+55 81 6469-2929,Freitas da Prata,RN,2025-01-29,197.2,inadimplente,1991-08-27
+139,Mariane Cavalcanti,brendacardoso@ig.com.br,(061) 7674 3184,da Paz,AC,2025-03-01,125.58,inadimplente,1978-09-07
+140,Gustavo da Conceição,da-cruznathan@ig.com.br,0900 749 0285,Correia do Sul,AM,2025-06-21,156.55,inadimplente,1976-01-02
+141,Carlos Eduardo Pinto,carvalhoclarice@yahoo.com.br,+55 71 4929 9726,da Luz,AP,2025-01-09,134.34,adimplente,1956-05-30
+142,Daniel Teixeira,stella94@teixeira.br,+55 (084) 4039-0991,Rodrigues de Peixoto,AL,2024-08-22,191.4,adimplente,1970-02-25
+143,Sarah da Mota,lopesmilena@uol.com.br,+55 (061) 2382 2900,Porto,ES,2025-06-16,151.14,adimplente,1959-09-16
+144,Gabriel Castro,da-cruzcaroline@alves.com,(071) 0007-1563,Farias de da Mata,RJ,2025-04-16,92.89,adimplente,1969-09-17
+145,Sra. Ana Laura Cavalcanti,aazevedo@gmail.com,(081) 9916-0487,Nogueira do Galho,RR,2024-09-23,171.25,adimplente,1960-09-16
+146,João Miguel Aragão,qcosta@hotmail.com,+55 11 6886 8791,Rezende da Mata,GO,2025-07-12,65.97,adimplente,1973-06-08
+147,Marcelo Melo,silvaotavio@correia.br,0800 075 3419,Cavalcanti de Costa,BA,2024-12-18,71.8,adimplente,2002-07-12
+148,Srta. Eloah Pereira,larada-mota@ig.com.br,+55 (011) 2182 3041,Sales de Minas,PE,2025-01-04,79.99,adimplente,1993-03-02
+149,Sr. Pedro Lucas Souza,emanuelly06@teixeira.com,+55 (051) 0937 9018,Correia do Norte,AL,2025-02-04,197.53,adimplente,1985-02-15
+150,Dra. Valentina Oliveira,cribeiro@gmail.com,81 3491 9356,das Neves,AL,2025-05-24,71.96,adimplente,2002-01-15
+151,Luigi Oliveira,iazevedo@ig.com.br,51 2575 9335,Oliveira,PR,2024-08-30,153.59,adimplente,1981-02-15
+152,Vicente da Cunha,scaldeira@costela.com,84 6538-1204,Sales dos Dourados,RR,2025-04-02,80.6,adimplente,1959-01-20
+153,Dr. Lucas Gabriel Fernandes,yaragao@da.br,+55 (061) 6963-9619,Farias,RO,2025-05-15,54.85,adimplente,1967-01-01
+154,Srta. Mariane Duarte,thomaslima@uol.com.br,+55 51 0030 9680,Pires,RS,2025-06-21,65.37,adimplente,1957-03-13
+155,Paulo Novaes,rpeixoto@martins.com,+55 81 7742 2755,Mendes de Minas,RO,2025-04-08,179.73,adimplente,1957-04-02
+156,Srta. Valentina Costela,duartenicolas@uol.com.br,+55 21 3391 6353,Pereira,RO,2025-01-26,108.33,adimplente,1961-10-08
+157,Gustavo Henrique Farias,vitor-gabrieldas-neves@nascimento.br,(041) 9567-8163,das Neves,MS,2025-04-23,167.65,adimplente,1981-10-19
+158,Sr. Calebe Cardoso,qnovaes@melo.org,(031) 7336 4941,da Cunha de Goiás,BA,2024-10-07,153.94,adimplente,2003-05-23
+159,Benjamin Pereira,ana-carolina55@caldeira.br,31 8153 1099,Pires de Minas,PI,2024-11-26,188.97,adimplente,1972-11-01
+160,Mariane Pereira,isaac75@porto.br,+55 71 2659 2619,Campos do Campo,AC,2025-06-14,112.48,adimplente,1979-07-22
+161,Luiz Henrique Fernandes,mfernandes@da.org,+55 84 1353-4143,Costa,RS,2025-07-10,194.87,adimplente,2002-10-12
+162,Milena Cunha,sophiesilveira@gmail.com,+55 84 1525-7253,da Cruz do Sul,CE,2025-02-27,51.94,adimplente,1985-01-21
+163,Dra. Isis Ramos,goncalvesana-clara@ig.com.br,(051) 5900 9391,Freitas Alegre,PI,2024-10-16,80.46,adimplente,1967-11-09
+164,Eduarda da Paz,pietra04@bol.com.br,11 7420 6419,Moreira de Cardoso,AL,2024-12-13,174.5,adimplente,1974-08-12
+165,Emanuel Ramos,goncalvesmarcela@hotmail.com,(041) 8254 4309,Gomes de Martins,PA,2025-03-07,163.27,adimplente,1958-07-26
+166,Dra. Emilly Fogaça,vcosta@farias.com,+55 (084) 6927-3834,da Cunha,PI,2025-04-02,160.77,adimplente,1989-12-24
+167,Isabel Duarte,ryancorreia@viana.com,+55 84 1761-5012,Correia,CE,2025-04-14,166.42,adimplente,1990-03-31
+168,Antônio da Conceição,maria-ceciliaramos@gmail.com,+55 84 0042-3769,Ribeiro,SE,2025-06-22,94.13,adimplente,1991-09-09
+169,Daniela Melo,gcavalcanti@da.com,0500 110 2190,da Cunha,MS,2024-08-15,197.52,adimplente,2000-12-03
+170,Gabriel da Costa,fernando71@bol.com.br,+55 21 9075 9006,Fogaça da Prata,RO,2024-11-30,78.05,adimplente,1992-01-06
+171,André da Rocha,cunhajuan@moura.br,+55 51 1953 4185,Teixeira da Praia,SE,2024-11-04,160.26,adimplente,1996-11-24
+172,Srta. Caroline Freitas,diasgabriel@da.br,+55 71 3310-9127,Fogaça de Farias,AM,2025-05-08,106.58,adimplente,1969-02-28
+173,Maria da Cruz,carvalhoisis@silveira.br,+55 (061) 3342 6965,Peixoto das Flores,RJ,2024-08-21,91.87,adimplente,1983-11-25
+174,Laís da Mata,almeidamarcelo@da.br,41 0450 3973,Fogaça,RN,2024-10-09,69.51,adimplente,1984-09-22
+175,Eloah Mendes,castrogabrielly@bol.com.br,41 9160 2216,Carvalho,AM,2025-04-02,50.85,adimplente,1965-10-08
+176,Lavínia da Conceição,da-matadiogo@da.br,+55 11 4955-7047,da Rocha de Farias,TO,2025-04-03,156.45,adimplente,1993-09-19
+177,Nina Lima,azevedobenicio@lopes.com,+55 (031) 8742-6357,Fogaça,PE,2025-02-08,55.99,adimplente,1978-08-30
+178,Ana Rocha,acardoso@ig.com.br,51 7469 5346,Ribeiro,ES,2024-08-31,139.53,adimplente,1980-08-02
+179,Caio Barbosa,limagabrielly@nunes.com,31 3002-6650,Ferreira do Sul,PB,2025-01-06,123.58,adimplente,1956-03-24
+180,Raquel Castro,tdias@hotmail.com,+55 41 0005 8866,Azevedo Grande,GO,2025-03-04,132.52,adimplente,2001-01-24
+181,Sra. Heloísa Silva,pereirajoao@teixeira.net,61 4156-2020,Carvalho,SC,2025-05-11,167.6,adimplente,1979-02-02
+182,Maria Clara Novaes,joao-miguel41@hotmail.com,+55 (084) 3676 9923,Dias da Serra,AC,2025-07-02,128.81,adimplente,1991-02-09
+183,Sr. Matheus Moreira,helena52@da.br,+55 (021) 0897-9956,Costa,SE,2025-07-15,128.09,adimplente,1962-04-15
+184,Alexandre Moraes,ujesus@uol.com.br,+55 (021) 2507 1773,Campos,MS,2024-09-14,73.91,adimplente,1958-11-19
+185,Pedro Miguel Nascimento,kamilly20@yahoo.com.br,+55 (021) 9856-9505,Pinto,AL,2025-01-28,130.56,adimplente,1999-05-11
+186,Ana Júlia Caldeira,joaquimmoreira@campos.br,+55 84 7728-0624,Teixeira,RJ,2025-03-13,102.41,adimplente,1988-06-18
+187,Luigi Campos,mendesana-laura@ig.com.br,+55 (061) 7346 3236,da Rocha,MA,2024-08-30,149.5,adimplente,1977-11-26
+188,Thomas Nascimento,ysouza@pereira.br,(061) 8102-8918,Almeida dos Dourados,TO,2024-10-19,104.12,adimplente,1988-01-03
+189,Sr. Renan das Neves,arthursouza@hotmail.com,+55 (084) 7386-2960,da Rocha da Praia,AM,2025-01-07,192.55,adimplente,1960-01-05
+190,Bruno Oliveira,isilveira@rezende.net,+55 11 0247 4768,Azevedo,RR,2025-03-18,121.23,adimplente,1957-03-31
+191,Fernanda Almeida,nascimentolucas-gabriel@da.br,61 6999-0086,Nunes do Galho,MT,2024-08-14,173.55,adimplente,2006-10-25
+192,Carlos Eduardo Porto,teixeiraenrico@gmail.com,+55 (081) 1401-8598,Pereira de Peixoto,MT,2025-07-01,67.21,adimplente,1976-07-25
+193,Alana Nascimento,da-pazdavi-luiz@gmail.com,(084) 2161 2899,Silva de Araújo,SE,2025-07-17,116.85,adimplente,1985-09-24
+194,Emanuelly Silva,thomasalmeida@gomes.br,+55 (084) 3962-0574,Ramos das Pedras,PB,2024-11-30,193.83,adimplente,1978-10-24
+195,Miguel da Mata,luigi99@rezende.com,84 1117-3444,da Rosa,DF,2025-06-21,107.21,adimplente,1997-06-07
+196,Marcos Vinicius Cardoso,camposcaio@gmail.com,(031) 7024 9344,Ramos,ES,2024-09-29,107.88,adimplente,1959-02-20
+197,Thomas Pereira,da-rochajulia@gmail.com,+55 84 6015-1686,Alves,RN,2024-12-08,158.6,adimplente,2005-05-22
+198,Sr. Lucas Alves,melomaria-vitoria@farias.br,+55 81 6739 8885,Cardoso,RJ,2024-11-07,186.7,adimplente,1973-12-19
+199,Davi Lucca Silva,correiaesther@yahoo.com.br,+55 (021) 8419 8307,Novaes,AM,2025-02-07,127.15,adimplente,1961-12-18
+200,Dr. Erick Cunha,upereira@correia.org,81 3981 2006,da Rocha,RJ,2024-11-11,116.83,adimplente,2003-09-03
+201,Sra. Sophia da Cunha,agatha58@oliveira.com,84 8919-5975,Cardoso de Rezende,RR,2025-01-31,94.47,adimplente,1990-05-02
+202,Dr. Lorenzo Azevedo,qcardoso@bol.com.br,0800 752 1110,das Neves,SC,2024-12-09,98.05,adimplente,2000-03-20
+203,Milena Nogueira,nalves@hotmail.com,+55 81 4761 3507,Cardoso,AL,2025-06-04,192.23,adimplente,1992-08-02
+204,Maria Luiza Azevedo,daniela47@rodrigues.br,0300 400 1608,Ribeiro,PA,2024-10-05,195.74,adimplente,1959-05-05
+205,Erick da Costa,hrodrigues@nascimento.net,+55 41 8515 8456,Vieira Alegre,SE,2025-04-28,129.98,adimplente,2001-09-24
+206,Ana Julia Novaes,fcavalcanti@ig.com.br,+55 51 4323 7974,Souza das Flores,SE,2025-01-13,81.62,adimplente,1988-06-24
+207,Sr. Luiz Gustavo Souza,luana45@yahoo.com.br,(071) 1105-0481,Ribeiro,RS,2025-01-02,179.74,adimplente,1969-07-19
+208,Sabrina Cunha,maria-alice51@gomes.com,+55 (071) 2458 0822,Rezende,PA,2024-11-07,175.35,adimplente,1989-02-28
+209,Diego Mendes,laragao@uol.com.br,61 7144-5519,Monteiro do Amparo,PR,2025-07-14,130.66,adimplente,1968-07-23
+210,Sr. Leandro Alves,da-cunhajoao-miguel@nascimento.org,+55 (041) 0538 3152,Carvalho,DF,2025-06-24,146.98,adimplente,2001-02-18
+211,André Pires,fogacamaria-clara@bol.com.br,61 1756 3220,Moreira da Serra,MT,2025-07-09,162.03,adimplente,1993-10-23
+212,Benício Fernandes,barbosalucas@costela.com,+55 (031) 9062 3405,Novaes,RO,2024-12-22,53.56,adimplente,1977-11-05
+213,Cauã Caldeira,costelaluiza@cunha.br,51 7882 1897,Cunha de Silveira,GO,2025-07-15,55.68,adimplente,2001-01-12
+214,Isabel Teixeira,da-costaandre@ig.com.br,+55 84 6727-8848,Rodrigues do Galho,SP,2025-06-23,58.14,adimplente,1985-01-02
+215,Sra. Luiza Rezende,da-matagiovanna@ig.com.br,+55 81 5898 7710,Alves da Serra,BA,2025-04-18,133.71,adimplente,1956-01-09
+216,Dra. Marcela Lopes,wjesus@uol.com.br,+55 71 8697-7341,Dias de Farias,AM,2024-11-16,173.24,adimplente,1984-05-26
+217,Luna Porto,maria-clara64@aragao.com,0900 851 3820,Aragão Grande,RO,2025-04-25,111.14,adimplente,1967-02-18
+218,Luiz Fernando das Neves,vsales@uol.com.br,+55 41 4541 0626,Moreira de Nogueira,ES,2024-09-25,144.53,adimplente,1968-10-03
+219,Ian Costa,daniel33@fogaca.com,+55 31 4009 9985,Carvalho da Mata,TO,2025-06-12,97.46,adimplente,1972-08-29
+220,Pedro Henrique Porto,vicente32@da.com,(041) 5452-3397,Viana,TO,2025-07-09,150.99,adimplente,1959-08-16
+221,Alice Nunes,eduarda78@gmail.com,21 5689-9621,Souza,RO,2024-12-04,50.88,adimplente,2001-12-06
+222,Vitor Hugo Sales,leticia66@campos.com,0500-155-3181,Mendes,PE,2025-06-29,163.39,adimplente,2003-07-10
+223,Dr. Luiz Henrique da Luz,milena07@hotmail.com,21 5203 4359,Melo,SP,2025-05-15,155.13,adimplente,2001-02-03
+224,Catarina Mendes,da-rosamarina@yahoo.com.br,+55 81 1972 7152,Teixeira,RO,2024-11-11,103.66,adimplente,1962-06-30
+225,Yuri da Mota,gomesmarcos-vinicius@moreira.br,+55 21 3032-8734,Moreira,MS,2024-12-18,65.92,adimplente,1980-07-27
+226,Esther Fogaça,nina64@gmail.com,+55 (081) 2375-2915,Ramos,MT,2024-11-30,140.98,adimplente,1982-05-08
+227,Sophia Oliveira,leandro86@da.com,(011) 0468 0445,Gomes,MA,2024-11-27,164.79,adimplente,1968-05-04
+228,Kaique Rezende,rezendebeatriz@lima.br,+55 (071) 5476 0448,Silveira do Norte,DF,2025-06-28,107.21,adimplente,2004-11-03
+229,Kaique Gomes,moraesana-sophia@uol.com.br,+55 (041) 4299 1965,Novaes,SP,2024-11-09,121.1,adimplente,1959-09-30
+230,Luiz Gustavo da Conceição,julialopes@fogaca.com,41 1585-3793,Alves,TO,2025-01-23,82.98,adimplente,1972-07-11
+231,Lara Nunes,nascimentoemanuella@moura.net,(021) 2645-2168,Jesus do Campo,RJ,2025-04-01,169.52,adimplente,1958-08-24
+232,Joana Cunha,pirespedro-lucas@silveira.br,(061) 6698-0970,Almeida,AC,2025-07-27,94.25,adimplente,1994-09-05
+233,Henrique Souza,goncalvesemilly@gmail.com,61 6868 7706,Pereira da Serra,RO,2024-11-01,94.71,adimplente,1974-02-17
+234,Luiz Miguel Caldeira,tmoraes@gmail.com,+55 (071) 8041-9289,Nunes,PB,2024-08-23,193.61,adimplente,2006-08-09
+235,Raquel Fogaça,stella55@barros.com,(021) 5105-6028,Moreira do Amparo,MG,2024-12-01,133.03,adimplente,1957-10-22
+236,Maria Clara Moraes,amanda63@moreira.org,+55 (011) 0416-6633,Nascimento das Pedras,RS,2024-11-19,71.21,adimplente,2003-11-10
+237,Milena Rezende,pedro-miguel03@uol.com.br,(021) 0185-6301,Caldeira da Prata,PR,2024-08-26,50.75,adimplente,1972-04-01
+238,Emanuel Duarte,klima@uol.com.br,+55 21 9068-8287,Oliveira da Praia,PB,2025-03-22,130.57,adimplente,1999-12-20
+239,João Lucas Cardoso,maria-luiza79@fernandes.org,+55 84 6174-8754,Farias,SC,2025-04-14,95.7,adimplente,1976-10-03
+240,Miguel Martins,luiz-gustavofogaca@lopes.com,11 2504 8409,Correia de Nunes,GO,2024-12-09,81.76,adimplente,1961-08-15
+241,Thomas Costa,vda-mata@bol.com.br,(051) 1464-0820,da Paz do Norte,SP,2025-07-18,71.37,adimplente,1991-02-05
+242,Sra. Isis Gomes,maria-ceciliamartins@hotmail.com,+55 (084) 2250-4908,da Conceição,MS,2025-07-07,83.12,adimplente,1984-12-06
+243,Sra. Giovanna Cavalcanti,raquelrocha@hotmail.com,(084) 4763 0092,Freitas da Prata,BA,2025-03-26,79.15,adimplente,1991-05-03
+244,Pedro Miguel Costela,aazevedo@hotmail.com,0900-198-6187,Cardoso,RJ,2024-10-04,150.65,adimplente,1956-09-16
+245,Dr. Joaquim Cavalcanti,pdias@cardoso.com,+55 (071) 9670-9426,Ramos,PE,2024-12-20,177.84,adimplente,1958-05-14
+246,Davi Luiz Pereira,marceloteixeira@uol.com.br,(061) 3108-9167,Ramos Verde,RJ,2024-10-27,119.19,adimplente,1958-04-17
+247,Nicole Teixeira,clarice79@almeida.net,+55 84 0194-8149,Rodrigues,AC,2025-06-17,60.97,adimplente,2001-07-24
+248,Cauê Santos,carvalhojulia@yahoo.com.br,71 0689-9084,Azevedo,AL,2024-12-30,87.6,adimplente,1989-11-23
+249,Esther Nunes,emanuella27@da.com,+55 61 7260-4858,Ramos Verde,RO,2024-12-05,158.84,adimplente,1963-11-24
+250,Rafael Caldeira,anthonylopes@rodrigues.br,+55 51 3558 9866,Campos do Amparo,PB,2024-12-01,192.73,adimplente,1975-07-26
+251,Mariana Viana,olivia59@monteiro.com,+55 71 4423 4349,da Paz,ES,2025-01-11,69.23,adimplente,1986-07-25
+252,Clara da Rocha,vrocha@porto.br,+55 81 6265 5623,Moreira Paulista,RJ,2024-11-09,65.01,adimplente,2001-05-05
+253,Isabella Aragão,martinsmarcos-vinicius@yahoo.com.br,+55 (051) 9309-1916,Caldeira,RR,2025-06-10,185.02,adimplente,1979-02-04
+254,Maria Fernanda Souza,pereiraana-luiza@ferreira.br,+55 (061) 5348 8229,Alves,PR,2024-11-21,122.88,adimplente,1978-02-23
+255,Ana Vitória Monteiro,alexia55@uol.com.br,(051) 8360 1589,Nogueira,RR,2025-07-02,142.45,adimplente,1980-03-07
+256,Srta. Milena Porto,caldeiralucas-gabriel@silva.net,+55 (051) 6876-5429,Cunha,MA,2025-02-12,154.02,adimplente,1993-12-07
+257,Ryan Silva,ana-juliasouza@das.com,84 5164 0482,Silveira,MA,2025-02-07,134.83,adimplente,1974-11-27
+258,Luiza Monteiro,sarah24@costela.com,0800 843 2666,Peixoto de Goiás,GO,2025-06-16,171.15,adimplente,1969-03-07
+259,Bryan Gomes,vitor-hugoribeiro@freitas.com,(084) 2419-6862,Martins,CE,2025-06-09,75.3,adimplente,1979-07-04
+260,Dr. Benício Alves,ramosvinicius@rezende.net,+55 31 6303-0094,Nogueira,PB,2024-10-22,86.93,adimplente,1987-09-25
+261,Renan Silveira,nrodrigues@novaes.com,(031) 4644-7250,Monteiro,MT,2025-04-25,156.83,adimplente,1968-06-24
+262,Diego Costela,marinapeixoto@yahoo.com.br,+55 61 4262 2682,Caldeira,CE,2025-07-11,91.5,adimplente,1975-05-10
+263,Sra. Helena Jesus,roliveira@ig.com.br,0800-518-1542,Souza,AP,2024-09-16,70.15,adimplente,1977-11-10
+264,João Guilherme Farias,maria-alicelima@costa.com,+55 (011) 7028 7697,Martins de Minas,SE,2025-07-25,181.68,adimplente,1966-01-30
+265,Raul Sales,uda-costa@nascimento.com,(071) 8568-9358,da Mota,MS,2024-08-09,116.8,adimplente,1980-03-14
+266,Dra. Mirella Alves,vianabenicio@goncalves.net,81 6683 3978,Costela,PI,2025-05-17,123.05,adimplente,1997-11-03
+267,Júlia da Costa,heitorsales@bol.com.br,0500-035-0230,da Cruz de Ramos,CE,2024-10-02,76.37,adimplente,2000-04-01
+268,João Guilherme Moreira,nicole48@azevedo.org,+55 81 7771 8521,Pinto,DF,2024-08-14,176.27,adimplente,1995-01-17
+269,Laura Pinto,ana-luiza41@mendes.com,+55 (061) 8020 6447,Araújo,PR,2024-11-22,183.69,adimplente,1989-12-25
+270,Carolina Barros,noah10@yahoo.com.br,+55 84 2436 3406,Farias,BA,2024-09-28,89.49,adimplente,2000-09-29
+271,Yago Jesus,dfarias@uol.com.br,(081) 8056 5207,Alves,AM,2025-03-14,159.11,adimplente,2005-12-07
+272,Henrique Oliveira,joao-pedroaragao@ig.com.br,(011) 0653-0577,Gonçalves Alegre,PE,2025-04-02,177.44,adimplente,2004-10-21
+273,Sra. Clarice Correia,joao-miguel07@bol.com.br,51 0981 8291,Monteiro da Mata,MS,2025-03-30,171.9,adimplente,1955-09-02
+274,Giovanna Ferreira,diogo94@gmail.com,0300-823-1640,Dias,SC,2025-02-23,110.77,adimplente,1988-07-08
+275,Luiz Felipe Azevedo,cavalcantistella@campos.org,0800-193-6742,Azevedo,RS,2024-11-01,185.95,adimplente,1958-02-13
+276,Juan Araújo,paulosouza@da.br,21 8215 1142,Pereira da Serra,SC,2024-10-21,89.09,adimplente,1959-03-10
+277,Ana Beatriz Porto,ycosta@uol.com.br,(041) 8424-6942,Pereira Verde,RO,2024-10-14,120.82,adimplente,1994-04-09
+278,Sr. Gustavo Aragão,gabriela57@da.com,+55 31 3962 4800,Ribeiro de Moraes,AM,2025-03-07,104.87,adimplente,1987-07-28
+279,Fernanda Rezende,holiveira@viana.org,0800 688 8576,Mendes das Pedras,PE,2025-02-17,183.72,adimplente,1981-07-01
+280,Samuel da Cruz,luiz-miguel95@silveira.com,(021) 7316 2022,Nascimento dos Dourados,PA,2024-12-16,70.08,adimplente,1962-08-25
+281,Sr. Francisco Viana,usantos@uol.com.br,11 6084 1301,Nunes de da Rocha,SP,2025-05-17,126.56,adimplente,1972-01-04
+282,Mariane Melo,franciscocardoso@gmail.com,11 2309 5151,Nascimento,SE,2024-12-26,104.58,adimplente,2006-08-27
+283,Maria Julia Cunha,kamillysouza@ig.com.br,+55 (051) 4061-9708,Souza da Praia,DF,2024-11-28,149.4,adimplente,1992-09-22
+284,Laís Barbosa,correiamaysa@hotmail.com,0800 505 9440,Rezende de Rodrigues,RN,2025-06-16,163.58,adimplente,1995-01-05
+285,Raul Dias,mariapeixoto@das.com,+55 (051) 1715-0071,Correia Paulista,RN,2025-03-04,116.93,adimplente,1991-07-14
+286,Lucas Gabriel Costela,cviana@peixoto.br,(041) 8961 5597,Ferreira de Teixeira,RS,2025-02-22,134.95,adimplente,1956-11-04
+287,Eloah Ferreira,rafaela60@da.br,21 1060-8046,Lima da Praia,AM,2024-10-08,148.91,adimplente,1994-06-28
+288,Evelyn Silva,iduarte@bol.com.br,+55 81 8947-1026,Santos da Serra,RO,2024-10-08,160.39,adimplente,1964-03-24
+289,Diogo Caldeira,mariane97@yahoo.com.br,+55 (071) 2400-0702,Carvalho,CE,2025-02-24,190.88,adimplente,2003-12-24
+290,Raul Martins,emendes@uol.com.br,61 9686 2822,Ramos da Mata,AM,2024-11-27,82.82,adimplente,1963-11-09
+291,Rafael Aragão,almeidaotavio@costela.br,51 1436 3076,Moura de Goiás,MT,2024-10-02,84.76,adimplente,1983-11-21
+292,Sr. Gabriel Castro,nicolerodrigues@rezende.br,(021) 4977 3756,Rocha,BA,2025-06-21,105.42,adimplente,2003-10-07
+293,Davi Lucca Monteiro,da-luzjoao-pedro@yahoo.com.br,+55 (084) 4744 6082,Monteiro,AM,2025-01-03,150.29,adimplente,1961-02-21
+294,Clarice Cardoso,ugoncalves@gmail.com,+55 (011) 4888 0792,Cardoso,TO,2024-10-05,186.16,adimplente,1975-03-13
+295,Carlos Eduardo Jesus,ana-beatrizoliveira@yahoo.com.br,+55 (021) 4896-9157,Santos,RN,2025-06-02,108.21,adimplente,1966-10-26
+296,Sarah Lopes,qduarte@hotmail.com,41 3063-0350,Pires de Alves,MS,2025-04-30,182.23,adimplente,2004-01-10
+297,Milena Nascimento,felipe00@porto.net,+55 (084) 3766 5785,da Costa,ES,2024-10-31,197.09,adimplente,1978-07-13
+298,Júlia Ribeiro,oda-rosa@almeida.br,+55 51 7512 0904,da Cruz do Campo,GO,2024-10-24,65.48,adimplente,1960-10-30
+299,Benjamin Rodrigues,barrosmariane@ramos.com,+55 71 7800 4447,Costa da Praia,TO,2025-05-26,145.04,adimplente,1983-01-26
+300,Diogo Dias,maitealmeida@pinto.com,+55 (021) 0510-9329,da Rosa de Rodrigues,TO,2025-07-06,175.23,adimplente,1983-12-25
+301,Marina Souza,noahporto@uol.com.br,31 1507-1322,Farias de da Rosa,RN,2025-02-19,136.79,adimplente,1956-06-14
+302,Diego Farias,daniel07@silveira.br,0800-476-5015,Silva,PB,2024-09-29,76.08,adimplente,1973-08-24
+303,João Guilherme Correia,ofernandes@hotmail.com,(021) 7700 9329,Novaes do Campo,PA,2025-04-17,104.79,adimplente,2000-08-15
+304,Sra. Maria Fernanda Rodrigues,samuelaraujo@bol.com.br,61 5514 5050,Cavalcanti da Praia,SP,2025-04-23,127.5,adimplente,1973-11-04
+305,Fernanda Barros,almeidalevi@pereira.br,61 6033-9930,Gomes,GO,2024-08-12,195.9,adimplente,1987-08-11
+306,Calebe Sales,rochaleonardo@ig.com.br,(051) 1999 9126,Teixeira Paulista,RJ,2024-10-17,127.46,adimplente,1975-12-12
+307,João Miguel Rocha,elisarezende@gmail.com,0800 143 5427,Freitas Paulista,MT,2024-12-06,172.59,adimplente,1976-08-25
+308,Vitória Campos,iteixeira@da.org,+55 (041) 8615-6779,Ribeiro Alegre,PI,2025-05-13,123.03,adimplente,1964-05-09
+309,Gabriel Costa,rebeca88@da.br,(031) 5978-7557,Moreira,SE,2025-04-02,183.08,adimplente,2007-01-05
+310,Lara da Rosa,gustavo-henrique66@gmail.com,(021) 0910 3198,da Cruz,TO,2025-01-12,125.28,adimplente,1995-02-20
+311,Dr. Cauê Fernandes,samuelmendes@bol.com.br,+55 61 8070-7063,Cardoso,MT,2025-04-09,115.98,adimplente,1986-12-21
+312,Sarah Aragão,luiz-henriquealves@gmail.com,(084) 4086-5965,Dias da Prata,RO,2024-10-02,61.56,adimplente,1982-05-31
+313,Helena Nogueira,enzocampos@gmail.com,+55 31 6523 2935,Aragão,BA,2025-01-25,81.73,adimplente,1990-11-02
+314,Heitor Costa,zcardoso@bol.com.br,+55 (031) 0636 3977,das Neves,MG,2025-04-30,73.6,adimplente,1996-12-27
+315,Sophia Melo,sda-cruz@ig.com.br,41 1015 4231,Gonçalves,RN,2025-03-18,149.17,adimplente,1970-05-29
+316,Isabel Moraes,da-matafernando@uol.com.br,51 4189 6648,Pereira do Norte,MA,2024-09-24,171.68,adimplente,1997-06-09
+317,Ana Lívia Souza,moreiraheitor@pereira.net,+55 81 6897 3769,Cardoso,MS,2025-03-10,122.23,adimplente,1964-08-25
+318,João Vitor Viana,peixotoana-laura@silveira.com,+55 84 1782 8858,Novaes,ES,2025-07-22,121.85,adimplente,1993-02-20
+319,Mariana Almeida,gomesmaria-vitoria@yahoo.com.br,61 5836 9436,da Cunha,RN,2025-04-30,147.09,adimplente,1970-09-28
+320,Dr. Danilo Castro,kamilly10@uol.com.br,+55 (084) 5372-7494,Almeida de Monteiro,AL,2024-10-05,53.37,adimplente,2003-09-26
+321,Ana Vitória Silveira,xpereira@caldeira.org,+55 (081) 4437-2804,da Rosa,RJ,2025-02-05,69.18,adimplente,1993-02-24
+322,Dr. Pedro Lucas Alves,leonardo02@uol.com.br,71 3101-5645,Oliveira do Oeste,BA,2025-06-13,70.21,adimplente,1961-08-12
+323,Lavínia Rocha,jdas-neves@yahoo.com.br,(011) 8634-8752,Ramos,PB,2024-12-21,55.88,adimplente,1956-04-06
+324,João Pedro Fogaça,sfarias@bol.com.br,41 7088-7331,Novaes,DF,2025-04-26,72.03,adimplente,1992-09-06
+325,Camila Novaes,kevin95@castro.com,0300-520-1289,Araújo Grande,SE,2025-04-09,88.74,adimplente,1991-06-15
+326,Luiz Fernando da Cunha,nnovaes@gmail.com,+55 (081) 1882 7182,Oliveira,MG,2025-02-07,127.5,adimplente,1971-03-26
+327,Sr. Bernardo Silveira,da-matarodrigo@rodrigues.com,+55 61 3409-5259,da Paz da Mata,BA,2025-01-20,139.9,adimplente,1957-01-15
+328,Cecília Duarte,rezendevinicius@aragao.net,+55 (051) 8072-8591,Pires Alegre,PB,2025-06-25,145.64,adimplente,1982-03-05
+329,Francisco Carvalho,azevedoclarice@carvalho.com,+55 11 1365 4065,da Paz,PE,2024-12-07,192.09,adimplente,1988-03-04
+330,Alexandre Fernandes,sgomes@yahoo.com.br,31 1310 7218,Ferreira de Nogueira,PE,2024-12-13,117.38,adimplente,1965-04-24
+331,Dra. Elisa Dias,costamarina@bol.com.br,+55 (081) 3585 8872,da Costa,TO,2025-07-01,180.1,adimplente,1992-04-20
+332,Maria Cecília Fernandes,da-pazana-livia@bol.com.br,+55 51 3241 7732,Souza de Minas,SE,2025-04-23,82.9,adimplente,1970-10-02
+333,Larissa Nascimento,jesusdaniel@da.br,+55 84 8975-5847,Gonçalves,RN,2025-07-25,140.13,adimplente,1991-04-16
+334,Brenda Melo,brenofogaca@bol.com.br,+55 84 4508-1673,Castro,MT,2025-01-07,143.48,adimplente,1961-10-11
+335,Juliana Campos,rezendeesther@duarte.br,0800-014-2205,Campos,TO,2025-01-23,89.68,adimplente,1976-11-11
+336,Beatriz Lopes,yalves@gmail.com,+55 (041) 6377-1946,da Mota dos Dourados,RJ,2024-11-19,188.35,adimplente,2001-06-06
+337,Júlia Almeida,dferreira@mendes.org,+55 (081) 3955-5089,da Costa de Nunes,RN,2024-11-12,84.47,adimplente,1973-01-09
+338,Alice da Cunha,uteixeira@gmail.com,+55 31 2255 6702,da Rosa,MA,2024-10-23,69.83,adimplente,2006-02-13
+339,Dr. Rodrigo Fogaça,drocha@ig.com.br,11 3402-1688,Aragão do Oeste,ES,2024-08-28,80.35,adimplente,1962-05-11
+340,Maria Luiza Cavalcanti,evelyn15@rezende.net,+55 (051) 0650 7187,Carvalho,PA,2024-08-12,152.66,adimplente,1994-03-10
+341,Srta. Olivia Lima,ana-beatriz27@lopes.br,+55 61 4046 1868,da Cruz Verde,AC,2025-07-27,140.83,adimplente,1991-09-09
+342,João Gabriel Rodrigues,carolinemelo@araujo.br,+55 (011) 7532 0672,Correia,SE,2024-09-16,121.38,adimplente,2004-02-07
+343,João Guilherme Campos,tlima@uol.com.br,+55 21 3781-5449,Caldeira,PI,2025-04-28,181.66,adimplente,1959-12-06
+344,Sabrina Pires,gomesluiz-otavio@ig.com.br,(071) 5000-7465,Sales,RJ,2024-10-22,125.5,adimplente,1997-01-23
+345,Natália Freitas,leonardosilva@yahoo.com.br,41 4075-3634,Mendes da Mata,DF,2025-03-26,63.98,adimplente,1995-11-30
+346,Igor Castro,eloaharaujo@freitas.com,+55 21 8007 3335,Ferreira Paulista,AP,2024-11-27,185.3,adimplente,1959-03-23
+347,Heitor Teixeira,pcostela@da.br,+55 (081) 2802-6064,Rezende Paulista,BA,2024-08-21,174.13,adimplente,1968-11-22
+348,Ana Sophia Lopes,isadora20@yahoo.com.br,(071) 2844-0270,Cavalcanti dos Dourados,CE,2025-02-01,128.31,adimplente,1974-05-18
+349,Srta. Yasmin da Costa,thomas31@santos.org,+55 (071) 9273-6689,Costela,MS,2025-04-15,181.22,adimplente,1960-01-27
+350,Valentina Nascimento,joao-guilhermenascimento@da.org,+55 51 8065 0892,Lopes,RR,2025-06-16,114.34,adimplente,1964-05-08
+351,Sabrina Ramos,vinicius06@lopes.br,0500-430-5811,Nogueira,SC,2024-10-23,168.43,adimplente,1973-05-27
+352,Elisa Campos,melobenjamin@yahoo.com.br,(084) 3820-3210,Correia,RO,2024-11-17,102.58,adimplente,1955-12-02
+353,Igor Novaes,qsales@da.br,(084) 8841-5315,Moraes,RR,2024-09-05,64.66,adimplente,1995-08-05
+354,Sr. Gabriel Moura,gabrieladias@silveira.com,+55 81 1166 5520,Moreira,AL,2024-12-07,88.18,adimplente,1986-09-30
+355,Maria Vitória Martins,da-pazlorena@pires.net,0500-820-5627,da Conceição Paulista,GO,2024-10-08,186.51,adimplente,2000-02-01
+356,Emanuella Cunha,azevedoluna@bol.com.br,+55 71 6802 7137,Pires,PR,2024-10-25,92.49,adimplente,1958-10-29
+357,Ana Gonçalves,qpires@ig.com.br,(021) 4644 0455,Barbosa,MA,2025-08-02,111.3,adimplente,1990-08-25
+358,Thales Monteiro,naraujo@monteiro.br,21 5343 3657,Campos,RR,2025-05-30,50.82,adimplente,2006-12-19
+359,Sr. Henrique Barbosa,psantos@cardoso.com,84 4128-2027,da Luz,PE,2025-04-04,136.7,adimplente,1997-01-12
+360,Beatriz Pereira,joao-gabriel36@araujo.br,(031) 5142-8019,Cunha,MA,2025-06-07,127.96,adimplente,1973-12-17
+361,Cecília Silveira,da-pazdaniela@lima.org,(071) 3286 9034,Dias,RJ,2025-07-19,148.18,adimplente,1979-04-07
+362,Sra. Isabel Lopes,clariceramos@viana.com,71 0956 2216,Azevedo,MG,2024-12-19,111.33,adimplente,1998-01-16
+363,Yuri Nunes,da-matabenicio@nunes.com,11 9470 8882,Barbosa,TO,2024-12-26,73.22,adimplente,1984-11-06
+364,Marcelo Martins,mpinto@cardoso.com,+55 (061) 3105 3198,Sales da Prata,PR,2024-12-15,89.2,adimplente,1959-07-05
+365,Fernanda Dias,enrico99@gmail.com,0500-704-6674,Nunes,PE,2024-08-16,113.53,adimplente,1974-10-20
+366,Gustavo Pereira,maysaazevedo@gmail.com,61 8049 7252,da Cruz,AL,2025-06-23,141.78,adimplente,1971-12-13
+367,Sabrina Cardoso,ugomes@yahoo.com.br,(051) 5171 1395,Melo,PR,2025-05-12,163.25,adimplente,1970-07-14
+368,Dra. Julia Lima,cunhahelena@almeida.com,+55 (061) 8303 7159,Nascimento do Oeste,BA,2024-08-07,132.82,adimplente,1957-08-01
+369,Maria Fernanda Duarte,mda-luz@ramos.org,11 0445-9376,Moraes da Mata,AC,2025-03-30,122.37,adimplente,1974-05-23
+370,Pietro da Mota,ramosjoaquim@goncalves.com,0800-423-0666,Ferreira da Mata,CE,2025-05-24,133.86,adimplente,1964-03-16
+371,Igor Melo,ybarros@hotmail.com,+55 81 4932-2695,Souza da Serra,RR,2025-02-08,88.07,adimplente,1980-02-04
+372,Maria Vitória Souza,silveirajoao-vitor@da.org,+55 (061) 7315 3035,Costa dos Dourados,MS,2025-04-22,136.65,adimplente,1971-11-21
+373,Dr. Thomas Cunha,bda-mata@rocha.com,(021) 0010-0434,Cardoso do Amparo,AL,2025-06-10,160.37,adimplente,1996-12-02
+374,Srta. Ana Júlia Pereira,cunhasarah@yahoo.com.br,+55 11 1344-3741,Nascimento,RR,2024-11-15,162.17,adimplente,1967-07-16
+375,Isabelly Porto,ana-julia16@duarte.com,(051) 3172-9564,da Mata de Minas,AC,2024-10-01,167.47,adimplente,1993-02-02
+376,Sra. Mariane Pereira,sabrinaalves@uol.com.br,(031) 0584 3952,Moraes,MG,2024-11-10,65.04,adimplente,1961-12-31
+377,Isabelly Moura,rcavalcanti@melo.net,0800-200-6782,Sales,RJ,2025-06-23,110.08,adimplente,1977-03-30
+378,Yuri Barros,talmeida@azevedo.com,51 3820 5618,Costela,RS,2025-03-31,170.13,adimplente,2002-12-08
+379,Joaquim da Costa,ffreitas@fernandes.br,0300 022 0696,da Rosa,AL,2025-06-16,74.11,adimplente,2007-02-17
+380,João Miguel Rocha,vitor60@bol.com.br,+55 84 3813 6473,Barros,ES,2024-11-11,170.66,adimplente,1994-07-26
+381,Ana Julia Ramos,vieiramaria-eduarda@sales.com,+55 11 8731 3735,Jesus Paulista,PE,2024-12-31,120.75,adimplente,1968-07-18
+382,Lívia Oliveira,kamillycardoso@aragao.net,+55 (084) 4289 1774,da Luz,AC,2024-10-05,63.22,adimplente,1984-01-02
+383,Davi Luiz Aragão,lara84@uol.com.br,61 3748 0294,Jesus,PE,2025-01-09,83.27,adimplente,2000-06-04
+384,Vinicius Carvalho,lucas-gabriel05@viana.com,41 3520 9933,Nogueira,RS,2025-05-18,141.35,adimplente,1973-02-15
+385,Isabel Souza,carvalhobryan@rezende.org,0900 270 6215,Castro de Nascimento,TO,2025-07-14,189.6,adimplente,1971-08-30
+386,Carlos Eduardo Silva,usilveira@da.org,+55 (084) 5643-3628,da Costa,RS,2024-10-11,142.09,adimplente,1960-11-11
+387,Evelyn Rezende,oliveiraanthony@yahoo.com.br,+55 (084) 0520 4699,Dias,MS,2024-10-20,92.97,adimplente,2002-06-14
+388,João Lucas Novaes,ana-clara13@gmail.com,+55 84 2037-7670,Carvalho do Sul,MG,2025-06-26,191.86,adimplente,1991-11-18
+389,Dra. Nina da Mata,eloah64@ig.com.br,0900-841-5398,Costela da Mata,PI,2024-10-16,146.04,adimplente,1968-03-22
+390,Alice Moraes,samueloliveira@almeida.br,41 7446 3456,Cavalcanti do Campo,PR,2025-05-21,51.61,adimplente,1961-02-13
+391,Sarah Farias,alexandrecardoso@rodrigues.com,71 3864-6225,Silveira,PB,2025-05-24,92.9,adimplente,2004-08-03
+392,Rafaela da Rocha,samuelaraujo@cavalcanti.br,71 6507 3978,Costela de Correia,RO,2024-11-30,167.59,adimplente,1961-10-20
+393,Helena Oliveira,da-rochamirella@ribeiro.com,+55 71 5488-1375,Azevedo de Fernandes,PI,2025-03-13,127.37,adimplente,1986-10-27
+394,Heloísa Santos,igornunes@bol.com.br,+55 (081) 7410-5692,Azevedo Grande,RS,2024-10-02,142.28,adimplente,2004-05-15
+395,Ana Luiza Monteiro,goncalvesjoao@ig.com.br,31 1785-0138,Almeida do Galho,SP,2025-02-17,103.96,adimplente,2007-07-31
+396,Luiz Henrique Azevedo,joao-gabrielrodrigues@ig.com.br,+55 (011) 6037 0297,Pires,AC,2024-08-22,196.35,adimplente,1999-10-25
+397,Maria Fernanda Rocha,mariaramos@ig.com.br,(051) 3936 4883,Sales do Amparo,SP,2025-04-14,199.52,adimplente,1971-10-09
+398,Caio da Rocha,diasaugusto@bol.com.br,11 9640-3628,Costa,PA,2025-06-09,102.97,adimplente,1972-02-26
+399,Diogo Nunes,cauaramos@correia.br,+55 (021) 3565-0486,Barbosa,AP,2024-08-09,110.82,adimplente,1989-08-20
+400,Vitor Gabriel Moura,joanapereira@uol.com.br,+55 84 2672 7572,Cunha de Novaes,MG,2025-02-18,127.66,adimplente,2001-06-13
+401,Emilly Pinto,marcelo82@da.com,+55 21 9250 2875,da Conceição da Serra,AL,2025-01-11,187.88,adimplente,1958-04-19
+402,Isis das Neves,brenolima@hotmail.com,41 3405-6841,Nogueira,PE,2025-04-02,92.67,adimplente,1957-06-11
+403,Maria Cecília Cardoso,da-cunharenan@bol.com.br,0800-749-9146,das Neves do Norte,MG,2025-03-22,187.25,adimplente,1976-05-17
+404,Kaique Jesus,joaocastro@melo.br,71 9242-1734,Peixoto,PE,2024-12-19,102.12,adimplente,1982-10-19
+405,Ryan Souza,das-nevesyago@gmail.com,(031) 1729 9746,Ramos,PB,2024-09-10,83.94,adimplente,1990-02-25
+406,Maria Julia Aragão,rafaelvieira@yahoo.com.br,+55 (051) 9125 8083,Alves do Oeste,GO,2024-12-26,118.21,adimplente,1971-05-14
+407,Rodrigo Pereira,juan07@bol.com.br,(071) 3339 6127,Costa,TO,2024-09-10,136.24,adimplente,1984-03-07
+408,Cauã da Rocha,biancanogueira@bol.com.br,+55 (041) 8033 1852,Correia,RO,2025-01-06,76.26,adimplente,1962-03-10
+409,Yago Aragão,yagoda-costa@hotmail.com,+55 84 4243-7478,Teixeira do Campo,RS,2024-10-17,65.97,adimplente,2001-02-10
+410,Vicente Gomes,ajesus@uol.com.br,+55 81 6258 5540,Pinto,AM,2024-11-23,125.48,adimplente,1977-02-07
+411,Caio Vieira,thiago96@yahoo.com.br,+55 21 3246 7857,Jesus,MA,2025-07-11,192.05,adimplente,1961-07-22
+412,Julia Lopes,vianajoao-gabriel@barbosa.com,+55 31 5210-7265,Cardoso,MA,2025-03-09,193.51,adimplente,1959-05-07
+413,Bianca Cardoso,barroscecilia@yahoo.com.br,31 5645-1778,da Mota da Prata,RR,2025-04-18,171.97,adimplente,1956-01-11
+414,Stella da Luz,mcorreia@nunes.br,+55 (061) 2867 2811,da Rosa,TO,2025-06-12,87.52,adimplente,1967-11-19
+415,Srta. Elisa da Cruz,dribeiro@bol.com.br,+55 11 7236 4299,Moura,PA,2025-05-09,194.91,adimplente,1957-01-30
+416,Amanda da Luz,bruno15@bol.com.br,31 0758-8123,Jesus de Nogueira,TO,2024-08-14,122.54,adimplente,1985-10-12
+417,Emilly Ramos,bbarbosa@uol.com.br,+55 (061) 6110 9590,Teixeira,MT,2024-09-14,163.62,adimplente,1966-06-10
+418,Raquel Oliveira,calebe49@sales.net,21 7610 2953,Costa da Prata,CE,2024-09-04,152.24,adimplente,2005-02-24
+419,Rebeca Cunha,gustavocampos@silveira.com,51 9145 0153,Pinto Paulista,PR,2024-11-09,122.3,adimplente,1984-06-22
+420,Bryan Teixeira,gcosta@martins.net,+55 31 0512 1729,Vieira da Prata,MG,2024-09-20,60.13,adimplente,1987-11-01
+421,Pedro Costela,ramosmanuela@ramos.com,0500-659-4914,Ferreira,MS,2024-09-17,151.54,adimplente,1986-12-23
+422,Ian Araújo,cviana@monteiro.br,+55 (011) 3541-7182,Silveira da Mata,RO,2025-07-03,170.02,adimplente,1970-08-09
+423,Joaquim Peixoto,isadoraaragao@nascimento.com,+55 (084) 4625-7529,Moraes,DF,2025-05-28,193.32,adimplente,1961-04-08
+424,Sr. Bernardo Peixoto,nsales@gmail.com,+55 81 0578-9710,Novaes,AC,2024-10-01,130.35,adimplente,1983-12-24
+425,Raul Carvalho,umonteiro@dias.com,(084) 1750 6679,Peixoto,BA,2025-01-23,87.24,adimplente,1999-04-06
+426,Sra. Maria Alice Castro,kjesus@yahoo.com.br,+55 61 8214 6654,Nunes Paulista,AM,2024-11-20,109.84,adimplente,1976-12-03
+427,Kamilly Cardoso,jmartins@yahoo.com.br,+55 51 6425 0954,Cavalcanti,RN,2025-07-09,61.4,adimplente,1991-08-05
+428,Marcos Vinicius Costela,mnovaes@pereira.br,51 6519 2776,Costa de Monteiro,SC,2025-03-03,121.48,adimplente,1975-11-21
+429,Pedro Barros,marcos-vinicius25@gmail.com,+55 (051) 1065 0752,Pereira do Campo,TO,2025-01-06,82.78,adimplente,1956-02-19
+430,Dra. Luiza Pinto,uviana@ig.com.br,0900 448 2490,da Paz,RN,2024-10-22,90.36,adimplente,1990-07-18
+431,Clara Silva,marianealmeida@goncalves.br,(021) 5389 3280,Rodrigues,MG,2025-05-07,124.85,adimplente,1989-09-10
+432,Srta. Ana da Paz,pedro83@monteiro.net,0500-029-0930,Barros,ES,2024-09-04,85.23,adimplente,1985-11-21
+433,Dr. Juan da Conceição,ana-laura26@yahoo.com.br,71 5917-0836,da Cunha,RN,2025-04-15,180.91,adimplente,1989-01-20
+434,Manuela da Rosa,wlima@martins.com,51 6920 4818,Castro,MT,2025-04-24,84.38,adimplente,1985-03-15
+435,Vitor Hugo Duarte,gomesluiz-gustavo@ig.com.br,0500-083-7774,Freitas de Minas,AM,2024-09-15,175.45,adimplente,1975-08-31
+436,Dra. Bruna Duarte,luna86@yahoo.com.br,+55 (011) 4935 2902,Almeida,CE,2025-05-02,73.4,adimplente,1998-01-13
+437,Yasmin Azevedo,tfreitas@bol.com.br,0500 248 1729,da Rosa das Flores,RO,2025-03-30,67.98,adimplente,2000-07-25
+438,Vicente Campos,ecosta@moreira.com,+55 21 5347-9457,Fernandes do Galho,BA,2025-04-10,151.37,adimplente,1963-05-29
+439,Evelyn Jesus,da-cruzpietra@gmail.com,84 6506 3923,Pereira dos Dourados,PA,2024-12-02,142.07,adimplente,1959-01-10
+440,João Vitor Costa,souzamaria-vitoria@gmail.com,31 4556-1946,Pinto,SP,2024-09-21,193.7,adimplente,1964-05-03
+441,Laura Ribeiro,ada-rocha@goncalves.com,(081) 3417-0732,Pereira de Goiás,CE,2025-01-03,105.68,adimplente,1979-04-23
+442,Amanda Alves,antonio62@bol.com.br,+55 (041) 1228-3701,Vieira de Rocha,BA,2025-04-16,123.85,adimplente,1956-01-24
+443,Isabelly Gonçalves,zalmeida@yahoo.com.br,+55 51 6555 6315,Alves,AL,2025-05-29,180.32,adimplente,1963-07-29
+444,Ryan Duarte,marianacosta@caldeira.br,61 8999 5627,Oliveira de Sales,AC,2025-03-16,77.43,adimplente,1961-10-01
+445,Guilherme Teixeira,caue54@hotmail.com,(021) 3052-6206,Pires da Praia,PE,2025-07-31,92.04,adimplente,1987-09-06
+446,Isaac Gonçalves,cauecardoso@cunha.br,(081) 6885-9865,Rodrigues,GO,2025-04-07,162.53,adimplente,1996-02-06
+447,Vitor Hugo Silveira,melissaalmeida@pires.com,(031) 5272-0362,Freitas,MT,2025-05-25,58.12,adimplente,1969-08-22
+448,Emanuel das Neves,mendesrafaela@rodrigues.br,21 8344 3716,Alves do Galho,RO,2024-12-02,121.75,adimplente,1959-02-03
+449,Maitê Peixoto,garaujo@uol.com.br,61 5760-2371,Moreira,RJ,2024-08-20,54.88,adimplente,1976-06-13
+450,Carolina Novaes,yazevedo@uol.com.br,+55 41 8808 2198,Correia,SE,2025-07-25,109.06,adimplente,1991-12-04
+451,Amanda Barros,diegonunes@uol.com.br,+55 (071) 0248-0773,Freitas da Mata,MT,2024-10-28,118.58,adimplente,1996-10-21
+452,Enzo Gabriel Carvalho,moreiraguilherme@pereira.org,+55 (021) 6751 2468,Moraes,BA,2024-12-21,154.74,adimplente,1966-05-01
+453,Sr. Paulo Farias,stephanyda-rosa@ribeiro.br,51 7736 9107,Moreira,PE,2025-05-20,97.35,adimplente,2006-11-07
+454,Benjamin Silva,moreiraluiz-fernando@ramos.com,0900-692-3584,Pinto de da Mota,SP,2025-06-26,51.77,adimplente,1988-09-12
+455,Erick Martins,ana-livia23@bol.com.br,0900-578-5486,Melo,PI,2024-12-02,106.91,adimplente,1998-07-26
+456,Sarah Viana,luiz-felipe01@das.com,+55 11 9423 0389,Sales,SC,2025-02-06,98.82,adimplente,1984-04-22
+457,Isabella Lima,otavioramos@correia.org,+55 31 6620 1174,Melo da Praia,RO,2025-01-28,78.07,adimplente,1984-01-09
+458,Benjamin Moura,lucas66@barros.br,+55 71 8345 8631,Rodrigues,SC,2025-05-31,85.57,adimplente,1965-04-26
+459,Isabel Souza,costelagabriel@ig.com.br,+55 (021) 4989 8799,Lopes das Pedras,GO,2025-01-22,193.78,adimplente,1976-10-28
+460,Ana Lívia Azevedo,eduardo98@ribeiro.br,(041) 0166-9839,Silveira,CE,2025-04-18,104.89,adimplente,1962-11-10
+461,Luiz Henrique Fernandes,teixeirakaique@da.br,0800-157-7678,Porto Alegre,AC,2025-06-11,113.59,adimplente,1970-01-03
+462,Leonardo Gonçalves,nsouza@aragao.br,41 1467 2303,Rocha dos Dourados,SE,2024-09-29,155.11,adimplente,1974-03-16
+463,Ana Farias,scunha@azevedo.br,+55 61 2779-1202,da Luz,AM,2025-06-01,104.76,adimplente,1971-09-01
+464,Yasmin Cavalcanti,meloana-beatriz@cardoso.br,+55 81 0989-8363,Rezende Alegre,AP,2025-03-02,91.94,adimplente,1991-06-20
+465,Otávio Monteiro,erodrigues@hotmail.com,0800-515-2543,Costela,SP,2024-11-05,135.71,adimplente,1955-12-10
+466,João Barbosa,bernardoalves@ig.com.br,0800 515 6482,Novaes,AM,2025-05-20,152.9,adimplente,1998-08-24
+467,Sophie da Luz,ana-livia65@azevedo.br,+55 (031) 1956-1930,Fernandes,MT,2024-10-02,158.12,adimplente,1986-06-14
+468,Nina Lima,ydias@bol.com.br,+55 84 6353 6958,Correia,AC,2025-03-12,133.3,adimplente,1973-06-08
+469,Isaac da Conceição,xcostela@yahoo.com.br,+55 (041) 9354 9701,da Rocha da Praia,PB,2025-04-25,79.41,adimplente,1994-03-10
+470,Srta. Maria Sophia da Paz,moreiraemanuel@mendes.br,+55 (081) 6482 7671,Carvalho do Campo,PB,2025-04-11,120.95,adimplente,2006-09-24
+471,Evelyn Farias,maite16@duarte.com,(031) 0837 4209,Oliveira,SC,2024-12-02,76.49,adimplente,1962-10-14
+472,Isabelly Barros,nda-paz@hotmail.com,21 1683 4551,Pinto de Goiás,PR,2025-08-01,70.17,adimplente,1961-03-22
+473,Carolina Carvalho,ana-vitorialopes@lima.com,+55 (011) 2123 7851,Rezende Grande,BA,2025-01-28,130.1,adimplente,1979-04-13
+474,Sr. Lucca Viana,samuel34@pereira.br,+55 71 1333 3454,Duarte das Pedras,BA,2024-08-31,167.8,adimplente,1980-09-08
+475,Srta. Pietra da Costa,martinscarlos-eduardo@bol.com.br,0900-809-1559,Duarte,MT,2024-08-22,87.65,adimplente,1956-08-30
+476,Dra. Clara da Conceição,silvadaniel@gomes.net,+55 11 0632 8244,Gomes,MS,2025-01-05,57.16,adimplente,1998-09-22
+477,Letícia Mendes,joao-vitorlima@nunes.com,+55 21 7723-9917,da Costa,SC,2025-05-23,153.58,adimplente,2002-03-21
+478,Natália Melo,ramosmarcelo@yahoo.com.br,+55 (081) 4485-5800,Nascimento Grande,MG,2024-08-20,82.32,adimplente,1984-10-16
+479,Catarina Lima,gomescarlos-eduardo@ig.com.br,+55 81 0214-4361,Mendes,AC,2025-01-19,121.48,adimplente,1998-12-19
+480,Srta. Mariane Cavalcanti,dgomes@da.br,(081) 3064-7353,Fernandes,PE,2024-11-12,117.48,adimplente,1977-07-31
+481,Srta. Brenda Santos,emillydas-neves@gmail.com,(021) 0073 3950,Duarte,SC,2024-09-22,88.97,adimplente,1975-04-13
+482,Alícia das Neves,novaesmaria-eduarda@lopes.com,81 2689-2778,Sales,BA,2025-05-18,134.05,adimplente,1984-06-26
+483,Raul Dias,lorena93@caldeira.br,+55 61 8297 3552,Gonçalves,PI,2025-01-19,101.62,adimplente,1970-08-31
+484,Augusto Azevedo,samuel31@rocha.org,51 3668 8140,Fernandes,PI,2025-06-01,68.19,adimplente,1989-10-03
+485,Alícia Costa,maria-sophia19@uol.com.br,(041) 5224 4389,da Paz de da Mata,PR,2025-02-05,136.53,adimplente,1959-04-20
+486,Srta. Alexia da Costa,muriloda-rosa@yahoo.com.br,+55 21 2183-8192,Moura,AC,2025-05-26,76.18,adimplente,1982-01-26
+487,Milena Araújo,bfarias@yahoo.com.br,(061) 0748-2364,Farias,TO,2025-04-01,103.27,adimplente,1961-10-23
+488,Raul Gomes,zgomes@yahoo.com.br,+55 (031) 4717 1203,das Neves,ES,2025-05-17,123.12,adimplente,1967-07-05
+489,Thales Vieira,biancagomes@monteiro.com,11 9199-6389,Vieira,SE,2025-06-14,183.44,adimplente,1973-06-02
+490,Benjamin Silva,paulo49@silva.com,+55 (061) 3798 4115,Rezende dos Dourados,AP,2025-02-28,142.05,adimplente,1965-12-31
+491,Sra. Isabelly Santos,rafael25@uol.com.br,0900-184-1727,Oliveira do Oeste,AC,2024-08-17,144.76,adimplente,1994-08-11
+492,Sr. Raul Fogaça,marina17@da.br,+55 81 8313 1679,Pereira da Praia,RR,2024-09-27,180.24,adimplente,1977-05-03
+493,Maria Vitória Aragão,jcardoso@azevedo.br,(071) 8700-5677,Duarte,BA,2024-11-23,113.27,adimplente,1956-04-27
+494,Ana Laura Oliveira,qramos@hotmail.com,+55 (041) 4695 8226,Costela da Mata,AM,2024-09-23,110.72,adimplente,2001-03-16
+495,Fernando Sales,agomes@azevedo.br,+55 21 7456-9699,Rocha de Carvalho,BA,2024-11-17,61.87,adimplente,1976-10-11
+496,Raul Gonçalves,qda-cunha@gmail.com,(061) 0706 6453,Cavalcanti do Campo,MG,2024-09-07,84.23,adimplente,1979-03-06
+497,Kaique Nunes,valentina86@fogaca.br,(081) 5307-1528,Lopes,SC,2025-01-06,147.95,adimplente,1983-08-11
+498,Bárbara Almeida,ana-lauracosta@ribeiro.com,(011) 9202 2887,Pires,PE,2025-01-21,140.81,adimplente,1972-02-16
+499,Paulo Costa,jesusana-clara@aragao.org,41 9231-5701,Martins de Mendes,PI,2024-12-11,90.69,adimplente,1967-09-10
+500,Vitor Hugo Azevedo,castrotheo@gomes.br,+55 11 8107 9260,da Mata,SE,2025-07-22,167.15,adimplente,1975-01-09
